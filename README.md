@@ -2,7 +2,7 @@
 ## Description
 It distinguishes between the faces of the elderly and babies and displays the contents searched in the wiki encyclopedia as a description.
 
-## Tech
+## Tool
   1. html
   2. javascript
   3. css
