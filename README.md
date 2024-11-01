@@ -1,5 +1,4 @@
 # TM-WepApp
-## Description
 It distinguishes between the faces of the elderly and babies and displays the contents searched in the wiki encyclopedia as a description.
 
 ## Tool
