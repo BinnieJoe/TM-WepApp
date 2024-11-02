@@ -1,6 +1,12 @@
 # TM-WepApp
 It distinguishes between the faces of the elderly and babies and displays the contents searched in the wiki encyclopedia as a description.
 
+## Skills
+- **Web Application Development**: Designing and implementing complete web applications using HTML, CSS, and JavaScript
+- **Frontend Development**: Implementing design and interactions to improve user interface (UI) and user experience (UX)
+- **Face Recognition**: Building datasets to distinguish between elderly and babies in Teachable Machine
+- **API Integration**: Real-time searching and displaying information about face recognition results using Wikipedia API
+
 ## Tool
   1. html
   2. javascript
